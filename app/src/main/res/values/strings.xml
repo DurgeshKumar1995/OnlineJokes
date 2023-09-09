@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Unlimint Jokes</string>
+    <string name="network_issue">Please connect to network.</string>
+    <string name="time_out_issue">Timeout issue</string>
+    <string name="unauthorised_issue">Unauthorised issue</string>
+    <string name="not_found">Not found</string>
+    <string name="something_else">Something went wrong. Please try again</string>
+</resources>
